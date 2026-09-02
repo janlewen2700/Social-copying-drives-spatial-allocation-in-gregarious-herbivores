@@ -8,12 +8,12 @@ Most of the codes where not professionally cleaned, and as stated in the article
 
 #2 -> CLUSTERING.ipynb: Has the clustering parameters using the density based hdbscan method. This selects regions with higher density and given a minimum number of points and distance between them determines specific cluster. 2D pictures might resemble contiguous, but there elevation has to be taken into account.
 
-#2 -> CLUSTER-FIGURE.ipynb: plots the Figure 1 in the article, in a 2D space showing the different clusters.
+#3 -> CLUSTER-FIGURE.ipynb: plots the Figure 1 in the article, in a 2D space showing the different clusters.
 
-#2 -> SPATIAL_DISTRIBUTION.ipynb: plots the Figure 2 in the article and makes the spatial analysis corresponding to the resting sites compared to the rest of the valley. The latest update includes a multiple sample of subsets of points in the valley and compares the medians with respect to the empirical points.
+#4 -> SPATIAL_DISTRIBUTION.ipynb: plots the Figure 2 in the article and makes the spatial analysis corresponding to the resting sites compared to the rest of the valley. The latest update includes a multiple sample of subsets of points in the valley and compares the medians with respect to the empirical points.
 
-#2 -> FIGURE_3_ANALYSIS.ipynb: contains the plots and analysis related to Figure 3 in the article with the respect of the growth of newly visited sites and that of the most visited site. Different models are explored and compared between them.
+#5 -> FIGURE_3_ANALYSIS.ipynb: contains the plots and analysis related to Figure 3 in the article with the respect of the growth of newly visited sites and that of the most visited site. Different models are explored and compared between them.
 
-#2 -> FIGURE_4_ANALYSIS.ipynb: contains the plots and analysis related to Figure 4 in the article where individual variables such as age and sociality have been studied. Plots are also included. 
+#6 -> FIGURE_4_ANALYSIS.ipynb: contains the plots and analysis related to Figure 4 in the article where individual variables such as age and sociality have been studied. Plots are also included. 
 
-#2 -> utilities.py: contains the simple set_article_style() function so that all plots have the same appearance.
+#. -> utilities.py: contains the simple set_article_style() function so that all plots have the same appearance.
