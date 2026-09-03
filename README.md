@@ -1,5 +1,5 @@
 # Social-copying-drives-spatial-allocation-in-gregarious-herbivores
-Python codes used to analyse the empirical data related to the article: Social copying drives spatial allocation in gregarious herbivores. Dataset can be found at the zenodo directory: DOI:  10.5281/zenodo.20646900 .
+Python codes used to analyse the empirical data related to the article: Social copying drives spatial allocation in gregarious herbivores. Dataset can be found at the zenodo directory: DOI:  10.5281/zenodo.20646900 (https://zenodo.org/records/20646901) .
 
 
 Most of the codes where not professionally cleaned, and as stated in the article, AI was used to generate and help in code writing, specially graphics and correct models/selections. This also means, that it might be hard to understand at some points, but most of the notebooks are very sequential, and with the data found in the zenodo directory plus the tif file in this directory it should be enough the obtain the same and similar results. The uploaded files are the following and should be run in this order:
